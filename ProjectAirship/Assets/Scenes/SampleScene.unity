@@ -644,7 +644,7 @@ GameObject:
   - component: {fileID: 405636951}
   m_Layer: 0
   m_Name: Repair - Damaged
-  m_TagString: Untagged
+  m_TagString: damagedItem
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1602,7 +1602,7 @@ GameObject:
   - component: {fileID: 660590440}
   m_Layer: 0
   m_Name: Repaired - Cracked
-  m_TagString: Untagged
+  m_TagString: crackedItem
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1885,7 +1885,7 @@ GameObject:
   - component: {fileID: 718318024}
   m_Layer: 0
   m_Name: Repair - Broken
-  m_TagString: Untagged
+  m_TagString: brokenItem
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5833,7 +5833,7 @@ GameObject:
   - component: {fileID: 1840746692}
   m_Layer: 0
   m_Name: Repaired - Fixed
-  m_TagString: Untagged
+  m_TagString: fixedItem
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
