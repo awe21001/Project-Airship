@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.projectairship.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\2022Knight_Reach\\ProjectAirship\\Project-Airship\\ProjectAirship\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "ProjectAirship [Testing]"
+        }
+      }
+    }
+  ]
+}
